@@ -1,11 +1,6 @@
-# FocusGuard
-Here’s a **clean, professional, industry-level README.md** you can directly use for GitHub 👇
+# 🚀 FocusGuard — Fake Effort Detector
 
----
-
-# 🚀 WorkPulse — Fake Effort Detector
-
-**WorkPulse** is a modern, browser-based productivity monitoring application that evaluates whether a user is genuinely working or displaying inactive behavior. It leverages real-time activity tracking to compute a dynamic productivity score and provides intelligent feedback through warnings and visual indicators.
+**FocusGuard** is a modern, browser-based productivity monitoring application that evaluates whether a user is genuinely working or displaying inactive behavior. It leverages real-time activity tracking to compute a dynamic productivity score and provides intelligent feedback through warnings and visual indicators.
 
 Built with **React (Vite)** and **JavaScript (ES6+)**, the application operates entirely on the client side using browser APIs and localStorage.
 
@@ -13,7 +8,7 @@ Built with **React (Vite)** and **JavaScript (ES6+)**, the application operates 
 
 ## 📌 Overview
 
-WorkPulse analyzes user interaction patterns such as typing activity, mouse movement, tab switching, and idle time. Based on these signals, it determines productivity levels and proactively alerts users when inactivity is detected.
+FocusGuard analyzes user interaction patterns such as typing activity, mouse movement, tab switching, and idle time. Based on these signals, it determines productivity levels and proactively alerts users when inactivity is detected.
 
 This project demonstrates real-time state management, event handling, UI responsiveness, and behavior-driven analytics without relying on a backend.
 
@@ -139,7 +134,7 @@ The productivity score is derived from multiple behavioral factors:
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/workpulse.git
+git clone https://github.com/your-username/FocusGuard.git
 cd workpulse
 npm install
 npm run dev

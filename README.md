@@ -1,4 +1,4 @@
-# 🚀 FocusGuard — Fake Effort Detector
+#  FocusGuard — Fake Effort Detector
 
 **FocusGuard** is a modern, browser-based productivity monitoring application that evaluates whether a user is genuinely working or displaying inactive behavior. It leverages real-time activity tracking to compute a dynamic productivity score and provides intelligent feedback through warnings and visual indicators.
 
@@ -6,7 +6,7 @@ Built with **React (Vite)** and **JavaScript (ES6+)**, the application operates 
 
 ---
 
-## 📌 Overview
+##  Overview
 
 FocusGuard analyzes user interaction patterns such as typing activity, mouse movement, tab switching, and idle time. Based on these signals, it determines productivity levels and proactively alerts users when inactivity is detected.
 
@@ -14,7 +14,7 @@ This project demonstrates real-time state management, event handling, UI respons
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 ### 1. Activity Tracking
 
@@ -75,7 +75,7 @@ This project demonstrates real-time state management, event handling, UI respons
 
 ---
 
-## 🧩 Architecture
+##  Architecture
 
 The application follows a modular component-based structure:
 
@@ -96,7 +96,7 @@ src/
 
 ---
 
-## ⚙️ Technology Stack
+##  Technology Stack
 
 * **Frontend Framework:** React (Vite)
 * **Language:** JavaScript (ES6+)
@@ -111,7 +111,7 @@ src/
 
 ---
 
-## 🧠 Productivity Scoring Logic
+##  Productivity Scoring Logic
 
 The productivity score is derived from multiple behavioral factors:
 
@@ -122,7 +122,7 @@ The productivity score is derived from multiple behavioral factors:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -142,7 +142,7 @@ npm run dev
 
 ---
 
-## 🎨 UI/UX Highlights
+##  UI/UX Highlights
 
 * Real-time updates with smooth rendering
 * Animated warning popups
@@ -156,7 +156,7 @@ npm run dev
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * Dark mode support
 * Audio alerts for warnings
@@ -166,7 +166,7 @@ npm run dev
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 
 * Operates only within the browser environment
 * Cannot track activity outside the active tab
@@ -174,7 +174,7 @@ npm run dev
 
 ---
 
-## 📚 Use Cases
+##  Use Cases
 
 * Personal productivity tracking
 * Academic project demonstration
@@ -183,15 +183,7 @@ npm run dev
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Mutthuram**
-B.Tech Computer Science Engineering
-SRM Institute of Science and Technology
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
 

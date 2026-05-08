@@ -4,15 +4,11 @@
 
 Built with **React (Vite)** and **JavaScript (ES6+)**, the application operates entirely on the client side using browser APIs and localStorage.
 
----
-
 ##  Overview
 
 FocusGuard analyzes user interaction patterns such as typing activity, mouse movement, tab switching, and idle time. Based on these signals, it determines productivity levels and proactively alerts users when inactivity is detected.
 
 This project demonstrates real-time state management, event handling, UI responsiveness, and behavior-driven analytics without relying on a backend.
-
----
 
 ##  Key Features
 
@@ -51,8 +47,6 @@ This project demonstrates real-time state management, event handling, UI respons
   * Switches UI to a **danger state (red theme)**
 * Warning data is stored and restored using `localStorage`
 
----
-
 ### 4. Interactive Dashboard
 
 * Real-time visualization of:
@@ -66,14 +60,10 @@ This project demonstrates real-time state management, event handling, UI respons
 * Includes charts powered by **Recharts / Chart.js**
 * Uses modular and reusable UI components
 
----
-
 ### 5. Data Persistence
 
 * All activity metrics and warnings are stored in `localStorage`
 * State is restored automatically on reload
-
----
 
 ##  Architecture
 
@@ -94,8 +84,6 @@ src/
 └── styles.css
 ```
 
----
-
 ##  Technology Stack
 
 * **Frontend Framework:** React (Vite)
@@ -109,8 +97,6 @@ src/
   * `visibilitychange`
 * **Storage:** localStorage
 
----
-
 ##  Productivity Scoring Logic
 
 The productivity score is derived from multiple behavioral factors:
@@ -120,16 +106,12 @@ The productivity score is derived from multiple behavioral factors:
 * Frequent tab switching negatively impacts the score
 * Idle periods significantly reduce the score
 
----
-
 ##  Getting Started
 
 ### Prerequisites
 
 * Node.js (v16 or higher)
 * npm or yarn
-
----
 
 ### Installation
 
@@ -139,9 +121,6 @@ cd workpulse
 npm install
 npm run dev
 ```
-
----
-
 ##  UI/UX Highlights
 
 * Real-time updates with smooth rendering
@@ -154,8 +133,6 @@ npm run dev
 * Progress bar for productivity visualization
 * Clean and responsive dashboard layout
 
----
-
 ##  Future Enhancements
 
 * Dark mode support
@@ -164,15 +141,11 @@ npm run dev
 * Backend integration for analytics and reports
 * Exportable productivity reports
 
----
-
 ##  Limitations
 
 * Operates only within the browser environment
 * Cannot track activity outside the active tab
 * Productivity is inferred from behavioral signals, not actual task completion
-
----
 
 ##  Use Cases
 
@@ -180,8 +153,6 @@ npm run dev
 * Academic project demonstration
 * Behavioral analytics research
 * Portfolio project for frontend development
-
----
 
 ##  Author
 
